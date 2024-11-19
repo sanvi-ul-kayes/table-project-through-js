@@ -1,0 +1,36 @@
+.container {
+    width: 100%;
+    padding: 50px 50px;
+    border: 1px solid;
+    box-sizing: border-box;
+}
+h2{
+    font-size: 32px;
+    color: red;
+}
+label{
+    display: block;
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+input{
+    width: 100%;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    font-size: 20px;
+    outline: none;
+    border: 1px solid;
+}
+#btn{
+    width: 100%;
+    margin: 10px 0;
+    background: beige;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 16px;
+}
+td{
+    width: 87%;
+    font-size: 30px;
+    margin: 10px 0px;
+}
